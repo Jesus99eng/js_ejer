@@ -1,0 +1,26 @@
+typeof = saber que tipo de dato es 
+
+
+const textOne = 'Hello';
+const textTwo = 'World';
+const combined = textOne + ' ' + textTwo; o const combined = (textOne.concat(' ', textTwo));
+console.log(combined);
+
+funcion "concant"
+
+console.log(typeof 1);
+const num = 1;
+console.log(typeof num);
+
+
+
+function func() {
+   return 'hello world';
+};
+const result = func();
+console.log(result);
+
+function myFunction(a, b) {
+   return a + b;
+}
+
